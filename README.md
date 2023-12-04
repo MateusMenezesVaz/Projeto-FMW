@@ -1,4 +1,4 @@
-# Project-FMW
+# Projeto-FMW
 <h1>FMW - Free Messenger Wallet</h1>
 
 O aplicativo funciona como um mensageiro inovador que combina recursos de chat com uma poderosa IA, além de oferecer uma carteira de criptomoedas integrada. Com essa combinação única de funcionalidades, o aplicativo proporciona uma experiência abrangente e conveniente para os usuários.
