@@ -67,4 +67,4 @@ O aplicativo funciona como um mensageiro inovador que combina recursos de chat c
  </div>
  
 <h2>Autor</h2>
-Este aplicativo foi desenvolvido por Renan Vasconcelos, Mateus Menezes e Vitor Gabriel com base em um projeto de avaliação no React Native.
+Este aplicativo foi desenvolvido por Renan Vasconcelos, Mateus Menezes, Vitor Gabriel, kauê Gabriel, Rafael Bonfim com base em um projeto de avaliação no React Native.
