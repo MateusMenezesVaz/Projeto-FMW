@@ -49,10 +49,14 @@ O aplicativo funciona como um mensageiro inovador que combina recursos de chat c
 	
 <h2>Tela do Aplicativo</h2>
 <div align= "center">
+<img src="!![WhatsApp Image 2023-12-04 at 11 39 43 (1)](https://github.com/MateusMenezesVaz/Projeto-FMW/assets/130371011/9e0b0562-f944-4493-902d-56e62a205549)"
+ width="250" height="500">
+<img src="![WhatsApp Image 2023-12-04 at 11 39 43](https://github.com/MateusMenezesVaz/Projeto-FMW/assets/130371011/2006c373-1272-4736-b740-6e8732cb6319)"
+ width="250" height="500">
 <img src="https://github.com/renanvascz/Project-FMW/assets/101291080/8e9e3584-3d0a-4b86-835b-2e4e39c98dde"
  width="250" height="500">
-<img src="https://github.com/renanvascz/Project-FMW/assets/101291080/b8333845-b355-4c0d-a4bd-515f8b110e95"
- width="250" height="500"> 
+<img src="![WhatsApp Image 2023-11-30 at 18 44 26 (1)](https://github.com/MateusMenezesVaz/Projeto-FMW/assets/130371011/d3e5d0be-3fd5-4199-8463-a66431e4b35f)"
+ width="250" height="500">
 <img src="https://github.com/renanvascz/Project-FMW/assets/101291080/05116e01-66c1-4a8b-a17c-4ab7d87f2cf5"
  width="250" height="500">
 <img src="https://github.com/renanvascz/Project-FMW/assets/101291080/8e1283c5-b8e1-40a0-bf05-bf8ff5b49cd3"
